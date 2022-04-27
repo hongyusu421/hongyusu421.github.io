@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongyu Su&#39;s website</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Hongyu Su&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guia de Sintaxe Markdown</title>
+      <link>http://www.example.com/posts/markdown-syntax.pt-br/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/markdown-syntax.pt-br/</guid>
+      <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://www.example.com/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mais Conteúdo Rico</title>
+      <link>http://www.example.com/posts/more-rich-content.pt-br/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/more-rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>More Rich Content</title>
+      <link>http://www.example.com/posts/more-rich-content/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://www.example.com/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Texto de Exemplo</title>
+      <link>http://www.example.com/posts/placeholder-text.pt-br/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/placeholder-text.pt-br/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Configuração de Equações Matemáticas</title>
+      <link>http://www.example.com/posts/math-typesetting.pt-br/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/math-typesetting.pt-br/</guid>
+      <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://www.example.com/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://www.example.com/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Suporte a Emojis</title>
+      <link>http://www.example.com/posts/emoji-support.pt-br/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/emoji-support.pt-br/</guid>
+      <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>Hi, I&amp;rsquo;m Hongyu Su. I&amp;rsquo;m currently a Meng computer science student at Cornell University. I&amp;rsquo;m going to graduate this May and work as a fulltime software engineer after graduation.
+In the freetime, I normally would just sleep/read novels/watch netflix/go shopping/club.
+I travel a lot and love the sea !!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>Please contact me through hhongyu21@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>Software Engineering Lab @ UNC – Chapel Hill, NC • Updated Tar Heel Reader website through Webpack and Node.js; upgraded the front-end webpage using HTML, CSS and JavaScript • Implemented the Progressive Web Application of Tar Heel Reader on iOS system through service worker and web manifest to bring a native app-like user experience • Used Workbox to implement caching strategies to achieve offline access of the PWA
+Telecommunications Companies Customer Churn – Chapel Hill, NC • Predicted the customer retention based on 7000+ data and 23 variables about customer behaviors • Preprocessed the data and implemented KNN classifier, Gaussian Naïve Bayes and Support Vector Machine with RBF kernel through Python and scikit-learn to build models and achieved the highest accuracy of 78%</description>
+    </item>
+    
+  </channel>
+</rss>
